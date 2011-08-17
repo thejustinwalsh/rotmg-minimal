@@ -1,4 +1,4 @@
-# Realm Of the Mad God Minimalist
+# Realm of the Mad God Minimalist
 ### Google Chrome Extension
 
 Do you play [Realm of the Mad God](http://www.realmofthemadgod.com/)?  
