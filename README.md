@@ -11,7 +11,7 @@ Once the extension is installed it will strip the Real of the Mad God website of
 
 ## Installation
 
-* [Click Here](http://placeholder.com)
+* [Click Here](https://github.com/downloads/thejustinwalsh/rotmg-minimal/rotmg-minimal.user.js)
 * **Continue** with the download
 * **Install** the extension
 
